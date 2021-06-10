@@ -26,3 +26,7 @@ Stwórz klasę Jednostki miary i dodaj do niej metody, które będą przeliczać
 Zad. Triangle
 
 Stwórz klasę Trojkat i dodaj do niej metody do obliczania, obwodu, pola powierzchni i sprawdzania czy z podanych 3 boków można rzeczywiście utworzyć trójkąt. 
+
+JavaClientServer
+
+Server komunikuje się z Clientem i wysylaja sobie żądania i wyświetalją na ekranie
